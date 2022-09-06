@@ -13,9 +13,7 @@ A Selenium python email spammer.
 
 2. Put in the receiver, subject and text
 
-3. Save
-
-4. Run
+3. Save and Run
 
 # Any questions?
 You can contact me on discord. My user name is 81w_4#8888
