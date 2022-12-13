@@ -5,7 +5,7 @@ A Selenium python email spammer.
  
 2. Name the .exe file "chromedriver" if it isn't already set to that
 
-3. Run the install .bat file or run this command in cmd : 'pip install -r requirements.txt'.
+3. Run the install.bat file or run this command in cmd : 'pip install -r requirements.txt'.
 
 # How to use
 
@@ -16,6 +16,6 @@ A Selenium python email spammer.
 3. Save and Run
 
 # Any questions?
-You can contact me on discord. My user name is 81w_4#8888
+You could contact me on discord. My username is 81w_4#8888
 
  
